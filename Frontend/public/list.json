@@ -1,0 +1,106 @@
+[
+    {
+        "id":1,
+        "name":"Story book",
+        "title":"Things Fall Apart",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1718827197~exp=1718830797~hmac=190e45f312b338e6d0546ab1a840e3a1e8b470c0cf0f2bdb11f81f6a1e17ad26&w=740"
+    },
+    {
+        "id":2,
+        "name":"Comedy book",
+        "title":"The Divine Comedy",
+        "price":20,
+        "category":"comedy",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1718827197~exp=1718830797~hmac=190e45f312b338e6d0546ab1a840e3a1e8b470c0cf0f2bdb11f81f6a1e17ad26&w=740"
+    },
+    {
+        "id":3,
+        "name":"Sports book",
+        "title":"The Epic Of Gilgamesh",
+        "price":50,
+        "category":"sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1718827197~exp=1718830797~hmac=190e45f312b338e6d0546ab1a840e3a1e8b470c0cf0f2bdb11f81f6a1e17ad26&w=740"
+    },
+    {
+        "id":4,
+        "name":"Music book",
+        "title":"Journey to the End of the Night",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1718827197~exp=1718830797~hmac=190e45f312b338e6d0546ab1a840e3a1e8b470c0cf0f2bdb11f81f6a1e17ad26&w=740"
+    },
+    {
+        "id":5,
+        "name":"Comedy book",
+        "title":"The Stranger",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1718827197~exp=1718830797~hmac=190e45f312b338e6d0546ab1a840e3a1e8b470c0cf0f2bdb11f81f6a1e17ad26&w=740"
+    },
+    {
+        "id":6,
+        "name":"Food book",
+        "title":"Great Expectations",
+        "price":200,
+        "category":"food",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1718827197~exp=1718830797~hmac=190e45f312b338e6d0546ab1a840e3a1e8b470c0cf0f2bdb11f81f6a1e17ad26&w=740"
+    },
+    {
+        "id":7,
+        "name":"Music book",
+        "title":"The Possessed",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1718827197~exp=1718830797~hmac=190e45f312b338e6d0546ab1a840e3a1e8b470c0cf0f2bdb11f81f6a1e17ad26&w=740"
+    },
+    {
+        "id":8,
+        "name":"Sports book",
+        "title":"The Epic Of Gilgamesh",
+        "price":50,
+        "category":"sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1718827197~exp=1718830797~hmac=190e45f312b338e6d0546ab1a840e3a1e8b470c0cf0f2bdb11f81f6a1e17ad26&w=740"
+    },
+    {
+        "id":9,
+        "name":"Sports book",
+        "title":"The Epic Of Gilgamesh",
+        "price":50,
+        "category":"sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1718827197~exp=1718830797~hmac=190e45f312b338e6d0546ab1a840e3a1e8b470c0cf0f2bdb11f81f6a1e17ad26&w=740"
+    },
+    {
+        "id": 10,
+        "name":"Sports book",
+        "title":"The Epic Of Gilgamesh",
+        "price":50,
+        "category":"sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1718827197~exp=1718830797~hmac=190e45f312b338e6d0546ab1a840e3a1e8b470c0cf0f2bdb11f81f6a1e17ad26&w=740"
+    },
+    {
+        "id":11,
+        "name":"Sports book",
+        "title":"The Epic Of Gilgamesh",
+        "price":50,
+        "category":"sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1718827197~exp=1718830797~hmac=190e45f312b338e6d0546ab1a840e3a1e8b470c0cf0f2bdb11f81f6a1e17ad26&w=740"
+    },
+    {
+        "id":12,
+        "name":"Sports book",
+        "title":"The Epic Of Gilgamesh",
+        "price":50,
+        "category":"sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1718827197~exp=1718830797~hmac=190e45f312b338e6d0546ab1a840e3a1e8b470c0cf0f2bdb11f81f6a1e17ad26&w=740"
+    },
+    {
+        "id":13,
+        "name":"Sports book",
+        "title":"The Epic Of Gilgamesh",
+        "price":50,
+        "category":"sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1718827197~exp=1718830797~hmac=190e45f312b338e6d0546ab1a840e3a1e8b470c0cf0f2bdb11f81f6a1e17ad26&w=740"
+    }
+]
