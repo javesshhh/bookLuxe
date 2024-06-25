@@ -1,11 +1,18 @@
 import React, { useEffect, useState } from "react";
 import Login from "./Login";
+import Logout from "./Logout";
+// import { useAuth } from "../context/authProvider.jsx";
 
 const Navbar = () => {
+  // const [authUser, setAuthUser] = useAuth();
+  // console.log(authUser);
+
   const [theme, setTheme] = useState(
     localStorage.getItem("theme") ? localStorage.getItem("theme") : "light"
   );
+
   const element = document.documentElement;
+
   useEffect(() => {
     if (theme === "dark") {
       element.classList.add("dark");
@@ -19,6 +26,7 @@ const Navbar = () => {
   }, [theme]);
 
   const [sticky, setSticky] = useState(false);
+
   useEffect(() => {
     const handleScroll = () => {
       if (window.scrollY > 0) setSticky(true);
@@ -29,6 +37,7 @@ const Navbar = () => {
       window.removeEventListener("scroll", handleScroll);
     };
   }, []);
+
   const navItems = (
     <>
       <li>
@@ -45,6 +54,7 @@ const Navbar = () => {
       </li>
     </>
   );
+
   return (
     <>
       <div
